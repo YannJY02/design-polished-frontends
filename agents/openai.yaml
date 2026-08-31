@@ -1,0 +1,6 @@
+interface:
+  display_name: "Design Polished Frontends"
+  short_description: "Design, build, and verify real frontends"
+  default_prompt: "Use $design-polished-frontends to design, implement, and verify this frontend on its real target surface."
+policy:
+  allow_implicit_invocation: true
