@@ -2,8 +2,6 @@
 
 [English](README.md)
 
-[![skills.sh](https://skills.sh/b/YannJY02/design-polished-frontends)](https://skills.sh/YannJY02/design-polished-frontends)
-
 Design Polished Frontends 是一个面向完整前端交付的 Agent Skill。它帮助编码智能体从产品目标出发，在现有技术栈中完成设计与实现，并在用户真正使用的界面上验证结果。
 
 它适用于网站、Web 应用、数据看板、组件系统、浏览器扩展、移动应用、桌面应用和嵌入式界面。工作不会停在一张好看的截图上。这个 Skill 还会检查响应式布局、真实状态、可访问性、性能、不同输入方式和运行时证据。
