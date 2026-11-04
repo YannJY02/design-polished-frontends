@@ -1,0 +1,17 @@
+{
+  "repo": "YannJY02/design-polished-frontends",
+  "internal": [],
+  "admin_merge": [],
+  "check": {
+    "workflow": "check.yml",
+    "job": "check"
+  },
+  "review": {
+    "points": "ops/review.md",
+    "status": "agent-review",
+    "xhigh": [
+      ".github/workflows/*",
+      "ops/*"
+    ]
+  }
+}
