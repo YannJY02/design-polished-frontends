@@ -126,3 +126,9 @@ The canonical skill instructions live in [`SKILL.md`](SKILL.md). The route catal
 ## Author
 
 Created and maintained by [YannJY02](https://github.com/YannJY02).
+
+## Maintainer delivery
+
+Pull requests targeting `main` run the skill metadata, bundled-link and archive checks. Add `deliver` for the configured agent-autoloop service to review the exact PR head and merge after CI passes. Add `deliver-review` alongside it to review without merging.
+
+The result is a source merge. Existing users still need to update their installed skill; no package registry or production deployment is triggered. See [delivery configuration](ops/README.md).
